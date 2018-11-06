@@ -1,0 +1,71 @@
+﻿Prototype proposal
+
+To investigate the usibility of passive haptics, matching and map of physical objects in VR. The prototype will be a simple physical object 'skinned' within a 'world mesh', the problems will be 
+scale and location as well as feedback from the object.
+
+
+
+
+
+
+
+
+Market research
+
+
+The void  (Company name)
+HOW DOES IT WORK?
+The VOID is a full sensory, immersive experience, with you, your friends and family walking around inside the action. 
+It’s location-based entertainment – that means you visit one of our locations – and you walk into real-time hyper-reality 
+that combines interactive sets, real-time effects, and amazing technology. 
+
+
+
++++++research paper-----Deriving haptic design guidelines from human physiological, psychophysical, and neurological foundations 
+(K.S. Hale ; K.M. Stanney)
+
+
+MERGING REALITIES: BLENDING PHYSICAL AND VIRTUAL
+By Brenda Cooper, 2001
+
+Imagine a future where the world is as full of virtual tools as physical ones. Where you can design a village collaboratively using light and raw processing power, where characters pop out of books at your request and dance, and where you can hold a friends hand virtually anywhere in the world. No pun intended.
+
+Glen and I visited the Human Interface Technologies (HIT) Lab at the University of Washington this month. Glen is a Visiting Scholar at the Lab. The seeds of all of these capabilities are being grown in the HIT lab, where an enthusiastic mix of grad students and professionals are working to bring technology into the real world. We couldn’t possibly begin to describe everything we saw, so I’ll get a running start, and we’ll show up with more later on….
+
+nakaohome.jpg
+
+We were told a story – about a Japanese princess who loses her mirror. She finds a samurai, who finds the ninja who stole her mirror, and returns it to the Princess. The picture at left shows the gracious and helpful samurai.
+
+All of the characters show up as three dimensional (or at all, for that matter), when you choose an interface that allows 
+the computer to read a pattern and display the characters the pattern calls out. Even more interesting, you can actually, 
+for example, enter the Samurai’s house and help him find his horse, provided that you can navigate in the virtual world you see. It took me awhile – I’m clearly a generation too old! But it was easy to move back and forth between physical reality, augmented reality (the girl above sees an augmented reality, but also sees the physical world around her) and immersive virtual reality (such as being in the Samurai’s house helping him find the horse,
+ where all that you see is the virtual world).
+ 
+ We were told a story – about a Japanese princess who loses her mirror. She finds a samurai, who finds the ninja who 
+ stole her mirror, and returns it to the Princess. The picture at left shows the gracious and helpful samurai.
+ 
+ 
+ All of the characters show up as three dimensional (or at all, for that matter), when you choose an interface that allows
+ the computer to read a pattern and display the characters the pattern calls out. Even more interesting, you can actually,
+ for example, enter the Samurai’s house and help him find his horse, provided that you can navigate in the virtual world 
+ you see. It took me awhile – I’m clearly a generation too old! But it was easy to move back and forth between physical
+ reality, augmented reality (the girl above sees an augmented reality, but also sees the physical world around her) 
+ and immersive virtual reality (such as being in the Samurai’s house helping him find the horse, where all that you 
+ see is the virtual world).
+
+image002.jpg
+
+Letting my imagination go a little, this technology could be used in the backseat of a car to entertain a kid for hours. But 2D game boys or sets of crayons seem to work fine. So stretch – what if you put these information-carrying patterns on your copier, and you could pop your interface on and figure out how to clear a jam? Learn how to repair a fighter jet? Get around in a city? Read a recipe from an ingredients box? You could store a lot of information in a small place, and access it when you need it….hmmmm….
+
+For more, see the Magic Book page.
+
+Then they showed us the same idea, one step further developed. What we saw was a collaborative town-building experiment. It 
+mixed realities – there were some buildings that were already physically in the town (represented as physical models). Using
+ interface glasses, we could see virtual models right alongside the physical ones. It was great way to imagine how, for 
+ example, a community or downtown might look if you chose a certain height building or sign. And then you could choose a 
+ different one, and actually see those results….
+
+This technology is still lab bench work – but it can already actually be demonstrated using a portable computer. Kind of like the same portable I use. The rub seems to be getting the interface – the glasses or head mounted display or hand-held display (we saw all three) small enough and light enough. But with miniaturization work going on for electromechanical devices, well, it won’t be long. Which means I won’t be surprised if a copier I order in ten years comes with little virtual repairwomen that teach me how to patiently fix a bad jam….
+
+And it kept getting better. Or at least, solving even harder problems. Every virtual world I’ve been in has felt like one. Moving is unnatural, what you see has the wrong field of depth, distances are strange. Still, if you are in a completely virtual world, it’s usually internally consistent, and you can eventually forget some of the oddities. But some special problems crop up when you try and merge seeing virtual and physical objects or people in the same space. Physical people, for example, walk behind virtual ones. Regardless of where your mixed reality says the virtual person should be. That’s because the virtual object or person is a display in your interface tool – because, well, because they are virtual. So a mixed-reality party is hard; a mixed-reality lecture is disconcerting. The HIT lab is working on this too. The very last thing I got to see let me sit down on a stool and look through some very big glasses (kind of like what an ophthalmologist uses, a big heavy device with two holes to look through). And what I saw through them was the ability for physical and virtual worlds to interact in corrected physical space. If a man walked in front of a virtual object, he occluded it. If he walked through it, it shimmered. If he 
+was behind it, well, he was behind it. This is decidedly not simple. The work is in its early stages. And it’s revolutionary.
